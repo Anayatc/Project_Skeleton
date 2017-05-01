@@ -1,5 +1,5 @@
 from nose.tools import *
-import Name
+import NAME
 
 
 def setup():
