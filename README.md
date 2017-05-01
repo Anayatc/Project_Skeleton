@@ -1,2 +1,5 @@
 # Project_Skeleton
-basic skeleton for projects with python
+Basic skeleton for projects with python
+<br/>
+<br/>
+Experimenting with unit testing in ppython using nosetests.
